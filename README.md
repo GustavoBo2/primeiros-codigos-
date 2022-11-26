@@ -1,3 +1,9 @@
-<H1>PRIMEIROS CODIGOS</H1>
+# sistema de cadastro de jogos 
 
-> STATUS DO PROJETO: em desenvolvimento(1 mês).
+> status do projeto: em desenvolvimento
+
+para rodar esse projeto na sua maquina: por favor digite:
+
+```
+node app.js
+```
